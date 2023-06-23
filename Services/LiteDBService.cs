@@ -17,11 +17,11 @@ public class LiteDBService
         _db = new LiteDatabase("LiteDBExample/BlogExample.db");
     }
 
-    public T GetOne<T>(Expression<Func<T,bool>> expression)
+    public T GetOne<T>(Expression<Func<T, bool>> expression)
     {
         return _db.GetCollection<T>().FindOne(expression);
     }
-    
+
     public List<T> GetList<T>()
     {
         return _db.GetCollection<T>()
@@ -31,8 +31,8 @@ public class LiteDBService
 
     public void Insert<T>(T model)
     {
-         _db.GetCollection<T>()
-            .Insert(model);
+        _db.GetCollection<T>()
+           .Insert(model);
     }
 
     public bool Update<T>(T model)

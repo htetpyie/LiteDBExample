@@ -73,12 +73,12 @@ public class BlogExample
             System.Console.WriteLine("Update title and content with id 1 to 100");
             BlogDataModel data = _liteDbService
                 .GetOne<BlogDataModel>(x => x.Blog_Id == 1);
-                
+
             System.Console.WriteLine(data.Blog_Title);
-            
+
             data.Blog_Title = "Title 100";
             data.Blog_Content = "Content 100";
-            
+
             bool isUpdate = _liteDbService.Update(data);
             if (!isUpdate)
                 System.Console.WriteLine("Object not found");
@@ -97,7 +97,7 @@ public class BlogExample
     {
         int blog_id = 3;
         System.Console.WriteLine("Delete blog with id 3");
-        
+
         bool isDeleted = _liteDbService
             .Delete<BlogDataModel>(blog_id);
 
