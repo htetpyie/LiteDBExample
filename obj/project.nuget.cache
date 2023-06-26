@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bHh1HFT1NIb4w7cq2jLti9ZHNwTELIuBak3rcYZZULy5+FGpZiFKR+Ld902jObCRg1CypcQz2Q3e/s2pnZBtyw==",
+  "dgSpecHash": "CRHX6N6sggI3K+LBm5x7CPuDI30tw3KAwLdbvAq5x/4le5ESnkrcihfFwtxm/gIxXT0jM/yhIUgU/wLj+hCiUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\htetp\\OneDrive\\Desktop\\aa\\LiteDBExample\\LiteDBExample.Console.csproj",
+  "projectFilePath": "E:\\C#\\MyProjects\\LiteDBExercises\\LiteDBExample\\LiteDBExample.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\htetp\\.nuget\\packages\\litedb\\5.0.16\\litedb.5.0.16.nupkg.sha512"
   ],

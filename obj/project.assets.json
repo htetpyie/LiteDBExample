@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\htetp\\OneDrive\\Desktop\\aa\\LiteDBExample\\LiteDBExample.Console.csproj",
+      "projectUniqueName": "E:\\C#\\MyProjects\\LiteDBExercises\\LiteDBExample\\LiteDBExample.Console.csproj",
       "projectName": "LiteDBExample.Console",
-      "projectPath": "C:\\Users\\htetp\\OneDrive\\Desktop\\aa\\LiteDBExample\\LiteDBExample.Console.csproj",
+      "projectPath": "E:\\C#\\MyProjects\\LiteDBExercises\\LiteDBExample\\LiteDBExample.Console.csproj",
       "packagesPath": "C:\\Users\\htetp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\htetp\\OneDrive\\Desktop\\aa\\LiteDBExample\\obj\\",
+      "outputPath": "E:\\C#\\MyProjects\\LiteDBExercises\\LiteDBExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\htetp\\AppData\\Roaming\\NuGet\\NuGet.Config",
