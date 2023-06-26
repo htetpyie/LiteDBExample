@@ -9,18 +9,17 @@
   <component name="ChangeListManager">
     <list default="true" id="378c51ab-54e6-4341-893f-be8694f28680" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LiteDBExample.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LiteDBExample.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Services/LiteDBService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/LiteDBService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample.Console.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample.Console.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample.Console.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample/BlogExample-log.db" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample/BlogExample-log.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample/BlogExample.db" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample/BlogExample.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/LiteDBExample.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/LiteDBExample.Console.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/LiteDBExample.Console.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/LiteDBExample.Console.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39f07bfc11864c4f838bdff3f73f86b977800/b4/020a42aa/ILiteCollection`1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Rk9n49puwhdmAnLeDbDz6HHgsZ" />
   <component name="ProjectViewState">
@@ -74,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687783381090</updated>
-      <workItem from="1687783382473" duration="1062000" />
+      <workItem from="1687783382473" duration="2147000" />
     </task>
     <servers />
   </component>
