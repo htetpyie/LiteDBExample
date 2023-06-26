@@ -1,7 +1,10 @@
+using LiteDB;
+
 namespace LiteDBExample.Console.Features.Blog;
 
 public class BlogDataModel
 {
+    [BsonId]
     public int Blog_Id { get; set; }
 
     public string Blog_Title { get; set; }

@@ -8,13 +8,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="378c51ab-54e6-4341-893f-be8694f28680" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/LiteDBExample.Console.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/LiteDBExample.Console.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/LiteDBExample.Console.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/LiteDBExample.Console.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/LiteDBExample.Console.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/LiteDBExample.Console.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LiteDBExample.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LiteDBExample.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Services/LiteDBService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Services/LiteDBService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample.Console.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample.Console.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample.Console.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample/BlogExample-log.db" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample/BlogExample-log.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample/BlogExample.db" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/LiteDBExample/BlogExample.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/LiteDBExample.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/LiteDBExample.Console.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/LiteDBExample.Console.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/LiteDBExample.Console.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687783381090</updated>
-      <workItem from="1687783382473" duration="405000" />
+      <workItem from="1687783382473" duration="1062000" />
     </task>
     <servers />
   </component>

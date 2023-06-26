@@ -10,11 +10,7 @@ public class LiteDBService
 
     public LiteDBService()
     {
-        string folderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "LiteDBExample");
-        if (!Directory.Exists(folderPath))
-            Directory.CreateDirectory(folderPath);
-
-        _db = new LiteDatabase("LiteDBExample/BlogExample.db");
+       CreateConnection();
     }
 
     public T GetOne<T>(Expression<Func<T, bool>> expression)
@@ -45,5 +41,15 @@ public class LiteDBService
     {
         return _db.GetCollection<T>()
             .Delete(id);
+    }
+
+    private void CreateConnection()
+    {
+        string folderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "LiteDBExample");
+        
+        if (!Directory.Exists(folderPath))
+            Directory.CreateDirectory(folderPath);
+
+        _db = new LiteDatabase("LiteDBExample/BlogExample.db");
     }
 }
